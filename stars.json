@@ -1,15 +1,15 @@
 [
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 118229,
+    "stargazers_count": 118399,
     "open_issues_count": 246,
-    "forks_count": 19505
+    "forks_count": 19547
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 17090,
-    "open_issues_count": 89,
-    "forks_count": 931
+    "stargazers_count": 17150,
+    "open_issues_count": 96,
+    "forks_count": 934
   },
   {
     "full_name": "atc1441/CH_HID_Arduino",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "trustwallet/wallet-core",
-    "stargazers_count": 952,
-    "open_issues_count": 12,
-    "forks_count": 713
+    "stargazers_count": 960,
+    "open_issues_count": 8,
+    "forks_count": 718
   },
   {
     "full_name": "leemunroe/responsive-html-email-template",
-    "stargazers_count": 10513,
+    "stargazers_count": 10523,
     "open_issues_count": 4,
-    "forks_count": 3723
+    "forks_count": 3728
   },
   {
     "full_name": "neu-rah/ArduinoMenu",
-    "stargazers_count": 588,
+    "stargazers_count": 590,
     "open_issues_count": 64,
-    "forks_count": 146
+    "forks_count": 145
   },
   {
     "full_name": "ibhagwan/pancake-swap-interface-v1",
@@ -75,11 +75,11 @@
     "full_name": "ScalableOrg/fintech-lite",
     "stargazers_count": 151,
     "open_issues_count": 6,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "ultraembedded/riscv",
-    "stargazers_count": 354,
+    "stargazers_count": 359,
     "open_issues_count": 4,
     "forks_count": 82
   },
@@ -98,8 +98,8 @@
   {
     "full_name": "moleculerjs/moleculer-web",
     "stargazers_count": 228,
-    "open_issues_count": 21,
-    "forks_count": 84
+    "open_issues_count": 17,
+    "forks_count": 85
   },
   {
     "full_name": "progresak/lucrat-project",
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "moleculerjs/moleculer",
-    "stargazers_count": 4611,
-    "open_issues_count": 87,
+    "stargazers_count": 4618,
+    "open_issues_count": 84,
     "forks_count": 441
   },
   {
@@ -128,7 +128,7 @@
   {
     "full_name": "adam-mccormick/moleculer-axios",
     "stargazers_count": 7,
-    "open_issues_count": 16,
+    "open_issues_count": 17,
     "forks_count": 1
   },
   {
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter",
-    "stargazers_count": 185,
+    "stargazers_count": 190,
     "open_issues_count": 5,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "qw3rtman/git-fire",
-    "stargazers_count": 3575,
+    "stargazers_count": 3576,
     "open_issues_count": 13,
     "forks_count": 126
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "open-wa/wa-automate-nodejs",
-    "stargazers_count": 1789,
-    "open_issues_count": 17,
-    "forks_count": 411
+    "stargazers_count": 1802,
+    "open_issues_count": 22,
+    "forks_count": 413
   },
   {
     "full_name": "kbeckmann/pergola_projects",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "jaweii/Vueg----page-transition-plugin",
-    "stargazers_count": 1037,
+    "stargazers_count": 1036,
     "open_issues_count": 10,
     "forks_count": 150
   },
   {
     "full_name": "qrohlf/trianglify",
-    "stargazers_count": 9740,
+    "stargazers_count": 9743,
     "open_issues_count": 15,
     "forks_count": 704
   }
