@@ -1,19 +1,19 @@
 [
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 122074,
-    "open_issues_count": 256,
-    "forks_count": 20012
+    "stargazers_count": 122599,
+    "open_issues_count": 259,
+    "forks_count": 20058
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 18694,
-    "open_issues_count": 113,
-    "forks_count": 1062
+    "stargazers_count": 18769,
+    "open_issues_count": 117,
+    "forks_count": 1070
   },
   {
     "full_name": "atc1441/CH_HID_Arduino",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "trustwallet/wallet-core",
-    "stargazers_count": 1026,
-    "open_issues_count": 8,
+    "stargazers_count": 1033,
+    "open_issues_count": 10,
     "forks_count": 747
   },
   {
     "full_name": "leemunroe/responsive-html-email-template",
-    "stargazers_count": 10636,
+    "stargazers_count": 10645,
     "open_issues_count": 5,
-    "forks_count": 3771
+    "forks_count": 3780
   },
   {
     "full_name": "neu-rah/ArduinoMenu",
-    "stargazers_count": 601,
+    "stargazers_count": 602,
     "open_issues_count": 67,
     "forks_count": 148
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "ultraembedded/riscv",
-    "stargazers_count": 379,
+    "stargazers_count": 380,
     "open_issues_count": 4,
     "forks_count": 88
   },
@@ -99,7 +99,7 @@
     "full_name": "moleculerjs/moleculer-web",
     "stargazers_count": 234,
     "open_issues_count": 19,
-    "forks_count": 88
+    "forks_count": 86
   },
   {
     "full_name": "progresak/lucrat-project",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "moleculerjs/moleculer",
-    "stargazers_count": 4693,
-    "open_issues_count": 82,
-    "forks_count": 452
+    "stargazers_count": 4697,
+    "open_issues_count": 83,
+    "forks_count": 453
   },
   {
     "full_name": "pergola-fpga/pergola",
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "lemofficial/DesertFoxCPU",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 12,
+    "open_issues_count": 9,
+    "forks_count": 1
   },
   {
     "full_name": "CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter",
-    "stargazers_count": 208,
+    "stargazers_count": 211,
     "open_issues_count": 5,
     "forks_count": 49
   },
   {
     "full_name": "qw3rtman/git-fire",
-    "stargazers_count": 3608,
+    "stargazers_count": 3609,
     "open_issues_count": 13,
     "forks_count": 125
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "open-wa/wa-automate-nodejs",
-    "stargazers_count": 1886,
-    "open_issues_count": 31,
-    "forks_count": 429
+    "stargazers_count": 1889,
+    "open_issues_count": 32,
+    "forks_count": 428
   },
   {
     "full_name": "kbeckmann/pergola_projects",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "qrohlf/trianglify",
-    "stargazers_count": 9767,
+    "stargazers_count": 9771,
     "open_issues_count": 16,
     "forks_count": 706
   }
