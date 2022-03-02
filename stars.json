@@ -1,19 +1,19 @@
 [
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 135977,
+    "stargazers_count": 136133,
     "open_issues_count": 233,
-    "forks_count": 22444
+    "forks_count": 22481
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 22375,
-    "open_issues_count": 219,
-    "forks_count": 1354
+    "stargazers_count": 22434,
+    "open_issues_count": 224,
+    "forks_count": 1360
   },
   {
     "full_name": "atc1441/CH_HID_Arduino",
-    "stargazers_count": 14,
+    "stargazers_count": 15,
     "open_issues_count": 1,
     "forks_count": 2
   },
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "trustwallet/wallet-core",
-    "stargazers_count": 1360,
-    "open_issues_count": 12,
-    "forks_count": 926
+    "stargazers_count": 1365,
+    "open_issues_count": 7,
+    "forks_count": 928
   },
   {
     "full_name": "leemunroe/responsive-html-email-template",
-    "stargazers_count": 11032,
+    "stargazers_count": 11045,
     "open_issues_count": 5,
-    "forks_count": 3966
+    "forks_count": 3971
   },
   {
     "full_name": "neu-rah/ArduinoMenu",
-    "stargazers_count": 655,
+    "stargazers_count": 658,
     "open_issues_count": 77,
     "forks_count": 155
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "ultraembedded/riscv",
-    "stargazers_count": 464,
+    "stargazers_count": 466,
     "open_issues_count": 5,
-    "forks_count": 111
+    "forks_count": 113
   },
   {
     "full_name": "teezzan/commitSpy-Core",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "moleculerjs/moleculer",
-    "stargazers_count": 4973,
+    "stargazers_count": 4974,
     "open_issues_count": 86,
-    "forks_count": 470
+    "forks_count": 471
   },
   {
     "full_name": "pergola-fpga/pergola",
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "qw3rtman/git-fire",
-    "stargazers_count": 3754,
+    "stargazers_count": 3752,
     "open_issues_count": 14,
     "forks_count": 128
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "open-wa/wa-automate-nodejs",
-    "stargazers_count": 2093,
-    "open_issues_count": 43,
-    "forks_count": 449
+    "stargazers_count": 2099,
+    "open_issues_count": 45,
+    "forks_count": 451
   },
   {
     "full_name": "kbeckmann/pergola_projects",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "qrohlf/trianglify",
-    "stargazers_count": 9848,
+    "stargazers_count": 9855,
     "open_issues_count": 15,
     "forks_count": 717
   }
