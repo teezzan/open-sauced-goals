@@ -1,15 +1,15 @@
 [
   {
     "full_name": "trekhleb/javascript-algorithms",
-    "stargazers_count": 145691,
-    "open_issues_count": 268,
-    "forks_count": 24146
+    "stargazers_count": 145976,
+    "open_issues_count": 269,
+    "forks_count": 24191
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 28779,
-    "open_issues_count": 338,
-    "forks_count": 1751
+    "stargazers_count": 28840,
+    "open_issues_count": 352,
+    "forks_count": 1754
   },
   {
     "full_name": "atc1441/CH_HID_Arduino",
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "teezzan/cdEnv",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "trustwallet/wallet-core",
-    "stargazers_count": 1656,
-    "open_issues_count": 38,
-    "forks_count": 1100
+    "stargazers_count": 1658,
+    "open_issues_count": 35,
+    "forks_count": 1101
   },
   {
     "full_name": "leemunroe/responsive-html-email-template",
-    "stargazers_count": 11374,
-    "open_issues_count": 5,
-    "forks_count": 4087
+    "stargazers_count": 11384,
+    "open_issues_count": 6,
+    "forks_count": 4091
   },
   {
     "full_name": "neu-rah/ArduinoMenu",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "ultraembedded/riscv",
-    "stargazers_count": 560,
+    "stargazers_count": 561,
     "open_issues_count": 6,
     "forks_count": 130
   },
@@ -98,7 +98,7 @@
   {
     "full_name": "moleculerjs/moleculer-web",
     "stargazers_count": 255,
-    "open_issues_count": 22,
+    "open_issues_count": 23,
     "forks_count": 99
   },
   {
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "moleculerjs/moleculer",
-    "stargazers_count": 5172,
+    "stargazers_count": 5183,
     "open_issues_count": 86,
-    "forks_count": 502
+    "forks_count": 503
   },
   {
     "full_name": "pergola-fpga/pergola",
@@ -140,12 +140,12 @@
   {
     "full_name": "CircuitSetup/Expandable-6-Channel-ESP32-Energy-Meter",
     "stargazers_count": 287,
-    "open_issues_count": 9,
+    "open_issues_count": 10,
     "forks_count": 72
   },
   {
     "full_name": "qw3rtman/git-fire",
-    "stargazers_count": 3863,
+    "stargazers_count": 3866,
     "open_issues_count": 15,
     "forks_count": 133
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "open-wa/wa-automate-nodejs",
-    "stargazers_count": 2313,
-    "open_issues_count": 33,
-    "forks_count": 473
+    "stargazers_count": 2321,
+    "open_issues_count": 36,
+    "forks_count": 474
   },
   {
     "full_name": "kbeckmann/pergola_projects",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "qrohlf/trianglify",
-    "stargazers_count": 9896,
+    "stargazers_count": 9897,
     "open_issues_count": 17,
-    "forks_count": 718
+    "forks_count": 717
   }
 ]
